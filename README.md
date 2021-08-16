@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am very interested in the decentralized web - which makes me want to help develop applications, guide users, and be helpful in general. I want to learn Web Development, Docker, and Application Development in general.
+I am very interested in the decentralized web - which makes me want to help develop applications, guide users, and be helpful in general. I want to learn Web Development, Docker, and Application Development/Developer Operations in general.
 
 ##### Contact: figuregang@gmail.com
 
@@ -14,3 +14,6 @@ I am very interested in the decentralized web - which makes me want to help deve
 ##### Golem
  - [golem-stat-bot](https://github.com/figurestudios/golem-stat-bot)
  - [community-golem-docs](https://github.com/figurestudios/community-golem-docs)
+##### Akash
+ - [akash-docs](https://github.com/figurestudios/akash-docs)
+ - [AkashNS](https://github.com/figurestudios/AkashNS)
